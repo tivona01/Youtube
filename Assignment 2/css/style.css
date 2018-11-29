@@ -1,0 +1,69 @@
+body{
+	background:grey;
+}
+#youtube{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+	
+}
+.name{
+	color:red;
+}
+.navbar{
+	background:black;
+}
+.container{
+	background: black;
+}
+.logo {
+float:center;
+}
+
+.search{
+	width: 600px;
+	text-align: center;
+	align-content: center;
+}
+
+.hnav{
+	list-style: none;
+	display: inline;
+
+}
+
+.topnav{
+	background:black;
+	height: 40px;
+}
+
+.hor{float: center;
+	padding: 10px;
+	color: grey;
+	font: arial;}
+
+
+.sizer{
+	width: 190px;
+	margin: 10px;
+	height: 150px;
+
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+  
+
+}
+
+#showmore{
+	text-align: right;
+	padding: 10px;
+	color: #000000;
+	margin-top: 10px;
+}
